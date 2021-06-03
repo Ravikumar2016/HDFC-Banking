@@ -1,6 +1,6 @@
 main()
 {
-System.out.println(" hello how are you, how is the day");
+System.out.println(" hello how are you, how was the day");
 
 }
 
